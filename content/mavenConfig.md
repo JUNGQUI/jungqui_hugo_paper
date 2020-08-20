@@ -1,6 +1,6 @@
 ---
-title: "maven_repository"
-date: 2020-08-20T17:44:18+09:00
+title: "MavenConfig"
+date: 2020-08-20T17:51:15+09:00
 draft: true
 ---
 
