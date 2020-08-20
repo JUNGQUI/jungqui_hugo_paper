@@ -1,7 +1,6 @@
 ---
 title: "MavenConfig"
 date: 2020-08-20T17:51:15+09:00
-draft: true
 ---
 
 maven repository 적용
